@@ -1,0 +1,12 @@
+# Virtual environment folder
+venv/
+
+# Python cache files
+__pycache__/
+
+# VS Code settings folder
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
